@@ -1,10 +1,8 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Sistema criado para realização da atividade 3 do curso Desenvolvimento WEB.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Após a video aula busquei aprender mais e adicionei historico e melhorias no layout.
 
 A few resources to get you started if this is your first Flutter project:
 
