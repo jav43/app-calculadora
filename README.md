@@ -1,4 +1,4 @@
-# App Layout
+# App Calculadora
 
 Sistema criado para realização da atividade 3 do curso Desenvolvimento WEB.
 
